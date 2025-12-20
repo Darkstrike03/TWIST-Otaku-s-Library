@@ -1,0 +1,466 @@
+{
+  "username": "Tanish",
+  "favorites": {
+    "anime": [
+      {
+        "id": 1,
+        "uid": "1A",
+        "title": "Mushishi",
+        "image": "https://cdn.myanimelist.net/images/anime/2/73860.jpg",
+        "rating": 9.5,
+        "status": "Completed",
+        "episodes": 26
+      },
+      {
+        "id": 2,
+        "uid": "2A",
+        "title": "Erased",
+        "image": "https://cdn.myanimelist.net/images/anime/1512/139457.jpg",
+        "rating": 9.0,
+        "status": "Completed",
+        "episodes": 12
+      },
+      {
+        "id": 3,
+        "uid": "3A",
+        "title": "Summer Time Rendering",
+        "image": "https://cdn.myanimelist.net/images/anime/1676/125095.jpg",
+        "rating": 9.2,
+        "status": "Completed",
+        "episodes": 25
+      },
+      {
+        "id": 4,
+        "uid": "4A",
+        "title": "Grand Blue Dreaming",
+        "image": "https://cdn.myanimelist.net/images/anime/1002/142758.jpg",
+        "rating": 9.0,
+        "status": "Completed",
+        "episodes": 12
+      },
+      {
+        "id": 5,
+        "uid": "5A",
+        "title": "Anohana: The Flower We Saw That Day",
+        "image": "https://cdn.myanimelist.net/images/anime/5/29608.jpg",
+        "rating": 8.8,
+        "status": "Completed",
+        "episodes": 11
+      },
+      {
+        "id": 6,
+        "uid": "6A",
+        "title": "WorldEnd: What do you do at the end of the world?",
+        "image": "https://cdn.myanimelist.net/images/anime/13/85437.jpg",
+        "rating": 9.0,
+        "status": "Completed",
+        "episodes": 12
+      },
+      {
+        "id": 7,
+        "uid": "7A",
+        "title": "Daily Lives of High School Boys",
+        "image": "https://cdn.myanimelist.net/images/anime/3/33252.jpg",
+        "rating": 8.7,
+        "status": "Completed",
+        "episodes": 12
+      },
+      {
+        "id": 8,
+        "uid": "8A",
+        "title": "Tasokare Hotel",
+        "image": "https://cdn.myanimelist.net/images/anime/1792/149000.jpg",
+        "rating": 8.5,
+        "status": "Completed",
+        "episodes": 12
+      },
+      {
+        "id": 9,
+        "uid": "9A",
+        "title": "Charlotte",
+        "image": "https://cdn.myanimelist.net/images/anime/12/73595.jpg",
+        "rating": 8.5,
+        "status": "Completed",
+        "episodes": 13
+      },
+      {
+        "id": 10,
+        "uid": "10A",
+        "title": "The Tatami Galaxy",
+        "image": "https://cdn.myanimelist.net/images/anime/8/21505.jpg",
+        "rating": 9.3,
+        "status": "Completed",
+        "episodes": 11
+      }
+    ],
+    "manga": [
+      {
+        "id": 1,
+        "uid": "1M",
+        "title": "Fire Punch",
+        "image": "https://cdn.myanimelist.net/images/manga/2/186895.jpg",
+        "rating": 9.0,
+        "status": "Completed",
+        "chapters": 83
+      },
+      {
+        "id": 2,
+        "uid": "2M",
+        "title": "Pandora Hearts",
+        "image": "https://cdn.myanimelist.net/images/manga/1/168503.jpg",
+        "rating": 9.2,
+        "status": "Completed",
+        "chapters": 104
+      },
+      {
+        "id": 3,
+        "uid": "3M",
+        "title": "Dorohedoro",
+        "image": "https://cdn.myanimelist.net/images/manga/3/258100.jpg",
+        "rating": 9.5,
+        "status": "Completed",
+        "chapters": 167
+      },
+      {
+        "id": 4,
+        "uid": "4M",
+        "title": "Red River",
+        "image": "https://cdn.myanimelist.net/images/manga/3/169498.jpg",
+        "rating": 8.8,
+        "status": "Completed",
+        "chapters": 96
+      },
+      {
+        "id": 5,
+        "uid": "5M",
+        "title": "Wistoria: Wand and Sword",
+        "image": "https://cdn.myanimelist.net/images/manga/2/252496.jpg",
+        "rating": 8.7,
+        "status": "Ongoing",
+        "chapters": 50
+      },
+      {
+        "id": 6,
+        "uid": "6M",
+        "title": "Shy",
+        "image": "https://cdn.myanimelist.net/images/manga/3/227099.jpg",
+        "rating": 8.5,
+        "status": "Ongoing",
+        "chapters": 100
+      },
+      {
+        "id": 7,
+        "uid": "7M",
+        "title": "Blue Exorcist",
+        "image": "https://cdn.myanimelist.net/images/manga/1/258099.jpg",
+        "rating": 8.8,
+        "status": "Ongoing",
+        "chapters": 150
+      },
+      {
+        "id": 8,
+        "uid": "8M",
+        "title": "Asadora!",
+        "image": "https://cdn.myanimelist.net/images/manga/3/227100.jpg",
+        "rating": 9.0,
+        "status": "Ongoing",
+        "chapters": 50
+      },
+      {
+        "id": 9,
+        "uid": "9M",
+        "title": "Edens Zero",
+        "image": "https://cdn.myanimelist.net/images/manga/1/203001.jpg",
+        "rating": 8.5,
+        "status": "Ongoing",
+        "chapters": 300
+      },
+      {
+        "id": 10,
+        "uid": "10M",
+        "title": "Nijigahara Holograph",
+        "image": "https://cdn.myanimelist.net/images/manga/3/51747.jpg",
+        "rating": 9.0,
+        "status": "Completed",
+        "chapters": 15
+      }
+    ],
+    "manhwa": [
+      {
+        "id": 1,
+        "uid": "1H",
+        "title": "The Skeleton Soldier Failed to Defend the Dungeon",
+        "image": "https://cdn.myanimelist.net/images/manga/3/226699.jpg",
+        "rating": 8.8,
+        "status": "Ongoing",
+        "chapters": 200
+      },
+      {
+        "id": 2,
+        "uid": "2H",
+        "title": "The Remarried Empress",
+        "image": "https://cdn.myanimelist.net/images/manga/3/226700.jpg",
+        "rating": 9.0,
+        "status": "Ongoing",
+        "chapters": 150
+      },
+      {
+        "id": 3,
+        "uid": "3H",
+        "title": "My Daughter is a Zombie",
+        "image": "https://example.com/my-daughter-zombie-cover.jpg",
+        "rating": 8.5,
+        "status": "Ongoing",
+        "chapters": 100
+      },
+      {
+        "id": 4,
+        "uid": "4H",
+        "title": "Dark Mortal",
+        "image": "https://example.com/dark-mortal-cover.jpg",
+        "rating": 8.7,
+        "status": "Ongoing",
+        "chapters": 120
+      },
+      {
+        "id": 5,
+        "uid": "5H",
+        "title": "The Villainess Is A Marionette",
+        "image": "https://example.com/villainess-marionette-cover.jpg",
+        "rating": 9.0,
+        "status": "Completed",
+        "chapters": 80
+      },
+      {
+        "id": 6,
+        "uid": "6H",
+        "title": "Doom Breaker",
+        "image": "https://example.com/doom-breaker-cover.jpg",
+        "rating": 8.8,
+        "status": "Ongoing",
+        "chapters": 150
+      },
+      {
+        "id": 7,
+        "uid": "7H",
+        "title": "Hero Has Returned",
+        "image": "https://example.com/hero-returned-cover.jpg",
+        "rating": 8.5,
+        "status": "Completed",
+        "chapters": 70
+      },
+      {
+        "id": 8,
+        "uid": "8H",
+        "title": "Deor",
+        "image": "https://example.com/deor-cover.jpg",
+        "rating": 8.7,
+        "status": "Ongoing",
+        "chapters": 100
+      },
+      {
+        "id": 9,
+        "uid": "9H",
+        "title": "Superhuman Era",
+        "image": "https://example.com/superhuman-era-cover.jpg",
+        "rating": 9.0,
+        "status": "Ongoing",
+        "chapters": 120
+      },
+      {
+        "id": 10,
+        "uid": "10H",
+        "title": "Wind Breaker",
+        "image": "https://cdn.myanimelist.net/images/manga/3/226701.jpg",
+        "rating": 8.8,
+        "status": "Ongoing",
+        "chapters": 500
+      }
+    ],
+    "manhua": [],
+    "donghua": [
+      {
+        "id": 1,
+        "uid": "1D",
+        "title": "The Defective",
+        "image": "https://example.com/the-defective-cover.jpg",
+        "rating": 8.8,
+        "status": "Completed",
+        "episodes": 16
+      },
+      {
+        "id": 2,
+        "uid": "2D",
+        "title": "Fog Hill of Five Elements",
+        "image": "https://example.com/fog-hill-cover.jpg",
+        "rating": 9.2,
+        "status": "Ongoing",
+        "episodes": 7
+      },
+      {
+        "id": 3,
+        "uid": "3D",
+        "title": "Psychic Princess",
+        "image": "https://example.com/psychic-princess-cover.jpg",
+        "rating": 8.5,
+        "status": "Completed",
+        "episodes": 16
+      },
+      {
+        "id": 4,
+        "uid": "4D",
+        "title": "Da Yu Hai Tang (Big Fish & Begonia)",
+        "image": "https://example.com/big-fish-begonia-cover.jpg",
+        "rating": 8.7,
+        "status": "Completed",
+        "episodes": 1
+      },
+      {
+        "id": 5,
+        "uid": "5D",
+        "title": "Beryl and Sapphire",
+        "image": "https://example.com/beryl-sapphire-cover.jpg",
+        "rating": 8.5,
+        "status": "Ongoing",
+        "episodes": 100
+      },
+      {
+        "id": 6,
+        "uid": "6D",
+        "title": "One Step Toward Freedom",
+        "image": "https://example.com/one-step-freedom-cover.jpg",
+        "rating": 8.8,
+        "status": "Ongoing",
+        "episodes": 400
+      },
+      {
+        "id": 7,
+        "uid": "7D",
+        "title": "Jade Dynasty",
+        "image": "https://example.com/jade-dynasty-cover.jpg",
+        "rating": 8.5,
+        "status": "Completed",
+        "episodes": 26
+      },
+      {
+        "id": 8,
+        "uid": "8D",
+        "title": "Dragon Raja",
+        "image": "https://example.com/dragon-raja-cover.jpg",
+        "rating": 8.7,
+        "status": "Ongoing",
+        "episodes": 16
+      },
+      {
+        "id": 9,
+        "uid": "9D",
+        "title": "Star Martial God Technique",
+        "image": "https://example.com/star-martial-cover.jpg",
+        "rating": 8.5,
+        "status": "Ongoing",
+        "episodes": 50
+      },
+      {
+        "id": 10,
+        "uid": "10D",
+        "title": "Shrouding the Heavens",
+        "image": "https://example.com/shrouding-heavens-cover.jpg",
+        "rating": 9.0,
+        "status": "Ongoing",
+        "episodes": 50
+      }
+    ],
+    "webnovels": [
+      {
+        "id": 1,
+        "uid": "1W",
+        "title": "Savage Divinity",
+        "image": "https://example.com/savage-divinity-cover.jpg",
+        "rating": 9.0,
+        "status": "Ongoing",
+        "chapters": 800
+      },
+      {
+        "id": 2,
+        "uid": "2W",
+        "title": "Tree of Aeons",
+        "image": "https://example.com/tree-aeons-cover.jpg",
+        "rating": 8.8,
+        "status": "Ongoing",
+        "chapters": 500
+      },
+      {
+        "id": 3,
+        "uid": "3W",
+        "title": "The Legend of Sun Knight",
+        "image": "https://example.com/sun-knight-cover.jpg",
+        "rating": 9.2,
+        "status": "Completed",
+        "chapters": 100
+      },
+      {
+        "id": 4,
+        "uid": "4W",
+        "title": "Pivot of the Sky",
+        "image": "https://example.com/pivot-sky-cover.jpg",
+        "rating": 9.0,
+        "status": "Completed",
+        "chapters": 200
+      },
+      {
+        "id": 5,
+        "uid": "5W",
+        "title": "Warlock of the Magus World",
+        "image": "https://example.com/warlock-magus-cover.jpg",
+        "rating": 8.7,
+        "status": "Completed",
+        "chapters": 1200
+      },
+      {
+        "id": 6,
+        "uid": "6W",
+        "title": "Epilogue",
+        "image": "https://example.com/epilogue-cover.jpg",
+        "rating": 8.5,
+        "status": "Completed",
+        "chapters": 50
+      },
+      {
+        "id": 7,
+        "uid": "7W",
+        "title": "War Queen",
+        "image": "https://example.com/war-queen-cover.jpg",
+        "rating": 8.8,
+        "status": "Ongoing",
+        "chapters": 100
+      },
+      {
+        "id": 8,
+        "uid": "8W",
+        "title": "The World Online",
+        "image": "https://example.com/world-online-cover.jpg",
+        "rating": 8.5,
+        "status": "Completed",
+        "chapters": 900
+      },
+      {
+        "id": 9,
+        "uid": "9W",
+        "title": "Embers Ad Infinitum",
+        "image": "https://example.com/embers-ad-infinitum-cover.jpg",
+        "rating": 9.0,
+        "status": "Completed",
+        "chapters": 900
+      },
+      {
+        "id": 10,
+        "uid": "10W",
+        "title": "Astral Pet Store",
+        "image": "https://example.com/astral-pet-cover.jpg",
+        "rating": 8.7,
+        "status": "Ongoing",
+        "chapters": 800
+      }
+    ]
+  }
+}
